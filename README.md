@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on school projects 
 - 📫 How to reach me 🙅‍♂️🙅‍♂
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm not fun
+- ⚡ Fun fact: I like gaming!
 
 <!---
 GuinhoLanches/GuinhoLanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
