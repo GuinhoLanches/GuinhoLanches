@@ -5,17 +5,10 @@
 🔭 Projeto Starvote: Starvote.com
 
 💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 🚀 Minhas Skills
 C++, JavaScript, PHP, HTML, Flutter, Node.js, Webview.
 
 
-⭐ GitHub Stats
-
-
 ![computer-illustration](https://github.com/user-attachments/assets/d4ce34cb-aed3-4bde-9b22-478ebbe11a01)
-
-
-GitHub Stats
