@@ -2,7 +2,7 @@
 
 🔭 Projeto Starvote: Starvote.com
 
-💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+💌 Entre em contato: ⤵️
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
