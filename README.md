@@ -1,9 +1,7 @@
-💜 Olá, meu nome é {Igor Marquesini}!
+🎧 Bem vindo... serei seu afitrião.
 
-🔭 Projeto Starvote: Starvote.com
+☕ A jornada do recomeço se incia.
 
-🚀 Minhas Skills
-C++, JavaScript, PHP, HTML, Flutter, Node.js, Webview.
-
+🖤 Aquele que nada sabe, nada pode entender.
 
 ![computer-illustration](https://github.com/user-attachments/assets/d4ce34cb-aed3-4bde-9b22-478ebbe11a01)
